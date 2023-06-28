@@ -1,11 +1,8 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "mallet"]
 	path = mallet
 	url = https://github.com/mimno/rmallet
-	shallow = true
 	subdir = mallet
-	registered = true
